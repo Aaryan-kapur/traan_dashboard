@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    padding-left:2%;
+    padding-right:2%;
+color:white;
+}
+.building_image{
+    height:30vh;
+}
+.social{
+    height:41%;
+}
+.info{
+    height:58%;
+}
